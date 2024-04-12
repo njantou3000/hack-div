@@ -1,0 +1,38 @@
+head{
+    
+}
+h1{
+    text-align: center;
+    color: chocolate;
+
+}
+body{
+    background: url(./../img/s.jpg);
+
+}
+
+h2{
+    color: rgb(123, 15, 224);
+}
+video{
+   
+    width: 300px;
+    height: 300px;
+}
+h2{
+    text-align: center;
+}
+a{
+    
+    background-color: rgb(1, 75, 53);
+}
+
+h3{
+color: rgb(0, 2, 129);
+
+
+}
+li{
+    text-align: center;
+    color: rgb(21, 255, 0);
+}
